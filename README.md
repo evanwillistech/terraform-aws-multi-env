@@ -102,10 +102,6 @@ terraform apply -auto-approve
 
 ### 👨‍💻 Author
 
-Ankit Vinodsingh Rana
+Evan Willis
 DevOps & Cloud Enthusiast
 AWS | Terraform | CI/CD | Kubernetes
-
-⭐ Support
-
-If you like this project, give it a ⭐ on GitHub
